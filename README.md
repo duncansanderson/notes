@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). A demo can be view on [duncansanderson.co.uk/notes](duncansanderson.co.uk/notes).
 
 ## Available Scripts
 
